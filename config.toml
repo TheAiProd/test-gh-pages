@@ -1,0 +1,8 @@
+baseURL = "https://theaiprod.github.io/test-gh-pages/"
+languageCode = "en-us"
+title = "Test GH Pages"
+theme = "PaperMod"
+
+[params]
+  author = "Your Name"
+  description = "A test site for GitHub Pages"
