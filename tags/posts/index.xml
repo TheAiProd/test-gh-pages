@@ -6,15 +6,8 @@
     <description>Recent content in Posts on Test GH Pages</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2024 22:26:21 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 16:09:50 -0700</lastBuildDate>
     <atom:link href="https://theaiprod.github.io/test-gh-pages/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ollama</title>
-      <link>https://theaiprod.github.io/test-gh-pages/posts/ollama/</link>
-      <pubDate>Thu, 30 May 2024 22:26:21 -0700</pubDate>
-      <guid>https://theaiprod.github.io/test-gh-pages/posts/ollama/</guid>
-      <description>Table of Contents Setting up Ollama Experiment 1 Experiment 2 Experiment 3 Experiment 4 Set Up and Run Ollama in Python 1. Create a virtual environment python3 -m venv venv # activate the virtual environment source venv/bin/activate 2. Install the Ollama Package # install `ollama` in the root directory pip install ollama 3. Create and Edit the Python Script touch run_ollama.py Experiment 1 - Chat with Ollama Open the file in your preferred code editor (e.</description>
-    </item>
     <item>
       <title>Your New Post</title>
       <link>https://theaiprod.github.io/test-gh-pages/posts/your-new-post/</link>

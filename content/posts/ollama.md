@@ -1,7 +1,7 @@
 ---
 title: "Ollama"
 date: 2024-05-30T22:26:21-07:00
-draft: true
+draft: false
 ---
 
 # Table of Contents
